@@ -2,6 +2,8 @@
 title: "Accueil"
 order: 1
 ---
-# L'Échappée Belle
+# 2100 commence maintenant !
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Nous n'avons pas envie de déléguer nos espérances. La société d'aujourd'hui ne nous convient pas, et on ne souhaite pas attendre l'hypothetique victoire d'un programme presidentiel pour vivre dès maintenant le futur qu'on désire.
+
+Alors on s'y met maintenant :) 
